@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bob Pollock-clone",
-    "currentPage": "index.html",
+    "currentPage": "costoflongtermcare.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 33,
+    "uniqCompNum": 39,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -85,8 +85,8 @@
                 "showTitle": true,
                 "title": "Find Out How We Can Help You",
                 "contentAlign": "center",
-                "text": "<b>We can help you with all sorts of planning. Including crisis planning. Its never too late to start. We're here to help. Contact us today.&nbsp;</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> ",
+                "text": "<b>We can help you with all sorts of planning. Including crisis planning. Its never too late to start. We're here to help. </b><br><br><b>How are you going to pay for the cost of long term care? &nbsp;</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">We Can Help - Click Here</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.6"
               }
@@ -204,7 +204,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Medicaid Planing",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -318,7 +318,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Legal Documents",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -432,7 +432,7 @@
       "settings": {
         "meta_descr": "Care Benefits",
         "title": "About",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -551,7 +551,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Long Term Care Planning",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -665,7 +665,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "MEDICAID ELIGIBILITY PLANNING",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -784,7 +784,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Veterans",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -850,7 +850,7 @@
           "_anchor": "header3-p"
         },
         {
-          "text": "Veterans Aid and Attendance Benefit\r<div>Steve Dabbs,&nbsp; VA Accredited Claims Agent&nbsp;</div><div>Accredited By the Department of Veterans Affairs\r</div><div>What is the Aid and Attendance Pension?</div><div>The Veteran can receive over $26,000 per Annum Tax Free to help pay for the High Cost of long-term care.\r</div><div>The 3Ms Squared to VA Pension Qualifications \r</div><div>The 2018 Veterans Pension with Aid and Attendance Benefits \r</div><div>The Veterans’ Pension Benefit Catch 22\r</div><div>The Application Process Started&nbsp; \r</div><div>\r</div><div>\r</div><div>By Steve M. Dabbs, VA Accredited Claims Agent\r</div><div>&nbsp; As a wartime married Veteran of any branch of the US military, you may be eligible for up to $26,040 of tax-free income per year. Veterans must be fully disabled or over 65 and rely on the assistance of another individual for daily living activities.</div><div>&nbsp; The VA Improved Pension Aid and Attendance is a program in which individuals who served in the military during World War II, the Korean Conflict, the Vietnam War, or the First Gulf War starting in 1990, are eligible for a special VA pension. The benefit extends to the Veteran’s spouse and to the surviving spouse of a Veteran who served during wartime. The spouse did not have to be married to the Veteran at the time of service. Common law marriages are recognized for eligibility.</div><div>&nbsp; The pension is paid tax-free to help pay for home health care, an assisted living facility, and nursing home costs. A family member can also provide home health care, and the Veteran can pay that person for the care given.</div><div>&nbsp; If you or your spouse served our country during a period of war, check out your eligibility for this benefit.&nbsp;If you require assistance at home, currently live in a senior retirement community or assisted living facility, or if nursing home care is inevitable, you may be able to raise your standard of living or move into a facility where you can receive all the care you need.&nbsp;\r</div><div>The Program</div><div>&nbsp; The VA Pension will provide tax-free funds to help pay someone to help with daily activities such as eating, dressing, mobility, toileting, or bathing.&nbsp;The benefit is for all Veterans; however, if the Veteran is over the age of 65, the need for care does not have to be service-connected.&nbsp;Mental incapacity due to dementia or Alzheimer’s disease, hip replacements, and even blindness and other diseases of old age may qualify the Veteran or spouse for this benefit.&nbsp;Friends, relatives, or professional staff can provide this care at home, in an assisted living facility, or in a nursing home.&nbsp;\r</div><div>What can you receive?</div><div>&nbsp;A married Veteran can receive up to $2,170 per month; a single Veteran may receive up to $1,830 per month. The benefit for care for a spouse is $1,435, while that for a surviving spouse is just over $1,176 per month. These benefits are tax-free and do not affect any Social Security payments.\r</div><div><br></div>",
+          "text": "Veterans Aid and Attendance Benefit\n<div>Steve Dabbs,&nbsp; VA Accredited Claims Agent&nbsp;</div><div>Accredited By the Department of Veterans Affairs\n</div><div>What is the Aid and Attendance Pension?</div><div>The Veteran can receive over $26,000 per Annum Tax Free to help pay for the High Cost of long-term care.\n</div><div>The 3Ms Squared to VA Pension Qualifications \n</div><div>The 2018 Veterans Pension with Aid and Attendance Benefits \n</div><div>The Veterans’ Pension Benefit Catch 22\n</div><div>The Application Process Started&nbsp; \n</div><div>\n</div><div>\n</div><div>By Steve M. Dabbs, VA Accredited Claims Agent\n</div><div>&nbsp; As a wartime married Veteran of any branch of the US military, you may be eligible for up to $26,040 of tax-free income per year. Veterans must be fully disabled or over 65 and rely on the assistance of another individual for daily living activities.</div><div>&nbsp; The VA Improved Pension Aid and Attendance is a program in which individuals who served in the military during World War II, the Korean Conflict, the Vietnam War, or the First Gulf War starting in 1990, are eligible for a special VA pension. The benefit extends to the Veteran’s spouse and to the surviving spouse of a Veteran who served during wartime. The spouse did not have to be married to the Veteran at the time of service. Common law marriages are recognized for eligibility.</div><div>&nbsp; The pension is paid tax-free to help pay for home health care, an assisted living facility, and nursing home costs. A family member can also provide home health care, and the Veteran can pay that person for the care given.</div><div>&nbsp; If you or your spouse served our country during a period of war, check out your eligibility for this benefit.&nbsp;If you require assistance at home, currently live in a senior retirement community or assisted living facility, or if nursing home care is inevitable, you may be able to raise your standard of living or move into a facility where you can receive all the care you need.&nbsp;\n</div><div>The Program</div><div>&nbsp; The VA Pension will provide tax-free funds to help pay someone to help with daily activities such as eating, dressing, mobility, toileting, or bathing.&nbsp;The benefit is for all Veterans; however, if the Veteran is over the age of 65, the need for care does not have to be service-connected.&nbsp;Mental incapacity due to dementia or Alzheimer’s disease, hip replacements, and even blindness and other diseases of old age may qualify the Veteran or spouse for this benefit.&nbsp;Friends, relatives, or professional staff can provide this care at home, in an assisted living facility, or in a nursing home.&nbsp;\n</div><div>What can you receive?</div><div>&nbsp;A married Veteran can receive up to $2,170 per month; a single Veteran may receive up to $1,830 per month. The benefit for care for a spouse is $1,435, while that for a surviving spouse is just over $1,176 per month. These benefits are tax-free and do not affect any Social Security payments.\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -898,7 +898,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Contact Us",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -1034,6 +1034,277 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-v"
+        }
+      ]
+    },
+    "costoflongtermcare.html": {
+      "settings": {
+        "meta_descr": "Learn how to pay for the cost of long term care.",
+        "title": "How to Pay For The Cost of Long Term Care",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "HOW ARE YOU GOING TO PAY FOR LONG COST OF LONG TERM CARE?&nbsp;<br><br>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12",
+          "_styles": {
+            "H3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showHeader": false,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title1": "Self Pay",
+          "caption1": "This approach is pretty self explanatory , no pun intended ; liquidation of current savings :  Qualified Funds,  IRA, 401K ect, and Non Qualified Funds that is investments made  with after tax dollars.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "title2": "Someone Else Pays",
+          "caption2": "The questions is who? Is it another family member, an insurance company, a Government entity or a combination of all of these?&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-11"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#f8f7f2"
+            },
+            ".mbr-navbar__section": {
+              "background": "#f8f7f2"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#f8f7f2",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/consulate-health-care-logo-535x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">LEGAL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">VETERANS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page5.html\">PLANNING</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">MECICAID</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_anchor": "menu-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-y"
         }
       ]
     }

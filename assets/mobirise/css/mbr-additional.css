@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 #slider-3 H1 {
   color: #ffffff;
   text-align: left;
@@ -110,5 +111,21 @@
   background: #f8f7f2;
 }
 #menu-s .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+
+#header3-12 H3 {
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-x .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-x.mbr-navbar--stuck .mbr-navbar__section {
+  background: #f8f7f2;
+}
+#menu-x .mbr-navbar__section {
+  background: #f8f7f2;
+}
+#menu-x .mbr-navbar__hamburger {
   color: #ffffff;
 }
