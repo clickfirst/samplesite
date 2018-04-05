@@ -41,7 +41,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/people-helping-people-548x283.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -79,7 +79,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/america-flag-png-hd-1709x1288.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
