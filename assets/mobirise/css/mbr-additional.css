@@ -1,16 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-#slider-3 H1 {
-  color: #ffffff;
-  text-align: left;
-}
-#slider-3 P {
-  color: #ffffff;
-  text-align: left;
-  font-size: 30px;
-}
-#slider-3 B {
-  color: #ffffff;
-}
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -21,6 +9,9 @@
   background: #f8f7f2;
 }
 #menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header1-1t H1 {
   color: #ffffff;
 }
 #menu-4 .mbr-brand__name {
@@ -34,6 +25,15 @@
 }
 #menu-4 .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#header1-1u H1 {
+  color: #ffffff;
+}
+#header1-1u P {
+  color: #ffffff;
+}
+#content1-24 DIV {
+  color: #000000;
 }
 #msg-box2-1o .mbr-header .mbr-header__text {
   color: #252525;
@@ -103,9 +103,6 @@
 }
 #menu-k .mbr-navbar__hamburger {
   color: #ffffff;
-}
-#content1-m DIV {
-  color: #000000;
 }
 #msg-box2-1s .mbr-header .mbr-header__text {
   color: #252525;
